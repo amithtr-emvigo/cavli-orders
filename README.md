@@ -1,6 +1,8 @@
 # cavli-orders APIs
 
-Run App :  npm start
+Update your  MongoDB Url in config.json file 
+
+To Run App :  npm start
 
 use the orders.xls file for uploading the orders  (You can find the file in project folder)
 
